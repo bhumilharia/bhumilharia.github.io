@@ -1,1 +1,3 @@
-Testing GitHub Pages: update 2
+# bhumilharia.github.io
+
+This repository powers my static personal website
