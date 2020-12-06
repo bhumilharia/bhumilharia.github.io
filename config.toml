@@ -46,7 +46,7 @@ summarylength = 10
 [params]
   title = "Bhumil Haria"
   author = "Bhumil Haria"
-  description = "India"
+  description = ""
   profilePicture = "images/profile.jpg"
   keywords = ""
   favicon = "favicons/"
