@@ -31,12 +31,6 @@ summarylength = 10
   url = "/about/"
 
   [[menu.main]]
-  name = "Tags"
-  weight = 350
-  identifier = "tags"
-  url = "/tags/"
-
-  [[menu.main]]
   name = "Posts"
   weight = 400
   identifier = "posts"
