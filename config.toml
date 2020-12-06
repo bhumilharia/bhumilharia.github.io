@@ -86,8 +86,4 @@ summarylength = 10
   title = "YouTube"
   url = "https://www.youtube.com/c/BhumilHaria/featured"
 
-  [[params.socialIcons]]
-  icon = "fas fa-rss"
-  title = "RSS"
-  url = ""
 
