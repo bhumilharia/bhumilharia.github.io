@@ -1,25 +1,16 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "About Bhumil Haria"
+date = "2020-12-06"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Bhumil Haria"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+I'm currently heading India operations for Plate IQ. I also consult/advise companies on building great, functional software teams. When not consulting or helping out friends with tech/processes, I'm busy reading up on psychology, business, and getting shit done.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Previous experience includes working at Pricebaba (Mumbai, India), Microsoft (Redmond and India). Worked (to varying extents) on large-scale web services infrastructure, automation infrastructure, telemetry, monitoring and alerting, deployment tech, crawling, etc. I find playing around with data fascinating, and have a keen interest in intelligent systems - and would love to work on those. Very interested in software design/architecture.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Other than tech - I like arts (admiring the aesthetic, fancy stuff), meeting people, travel, adventure sports and trying out new stuff. And have a particularly strong interest in subjects related to social evolution - religion, war, history, spirituality, justice/morality and philosophy about work and happiness and life. And I totally love [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+You can get in touch with me at bhumil@bhumilharia.com
