@@ -1,0 +1,89 @@
+baseURL = "https://bhumilharia.com/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+theme = "anatole"
+title = "Website | Bhumil Haria"
+summarylength = 10
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Google Site Verification
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 400
+  identifier = "posts"
+  url = "/posts/"
+
+
+
+[params]
+  title = "Bhumil Haria"
+  author = "Bhumil Haria"
+  description = "India"
+  profilePicture = "images/profile.jpg"
+  keywords = ""
+  favicon = "favicons/"
+  customCss = []
+  customJs = []
+  mainSections = ["posts", "tags"]
+  images = ["images/site-feature-image.png"]
+  doNotLoadAnimations = false
+  #displayMode = "dark"
+
+
+  ## Math settings
+  #[params.math]
+  #enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+  #use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+
+  ## Social links
+  # use 'fab' when brand icons, use 'fas' when standard solid icons.
+  [[params.socialIcons]]
+  icon = "fas fa-envelope"
+  title = "e-mail"
+  url = "mailto:bhumil@bhumilharia.com"
+
+  [[params.socialIcons]]
+  icon = "fab fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/bhumilharia"
+
+  [[params.socialIcons]]
+  icon = "fab fa-linkedin"
+  title = "Linkedin"
+  url = "https://in.linkedin.com/in/bhumilharia"
+
+  [[params.socialIcons]]
+  icon = "fab fa-github"
+  title = "GitHub"
+  url = "https://github.com/bhumilharia/"
+
+  [[params.socialIcons]]
+  icon = "fab fa-youtube"
+  title = "YouTube"
+  url = "https://www.youtube.com/c/BhumilHaria/featured"
+
+
