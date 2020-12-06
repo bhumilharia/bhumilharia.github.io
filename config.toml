@@ -49,7 +49,7 @@ summarylength = 10
   customJs = []
   mainSections = ["posts", "tags"]
   images = ["images/site-feature-image.png"]
-  doNotLoadAnimations = false
+  doNotLoadAnimations = true
   #displayMode = "dark"
 
 
