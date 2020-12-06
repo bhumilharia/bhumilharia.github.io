@@ -4,7 +4,7 @@ title = "Lessons Learnt - Part 1"
 date = "2011-04-17"
 description = "Lessons Learnt - Part 1"
 tags = [
-    "thoughts",
+    "life",
     "personal",
 ]
 +++

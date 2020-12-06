@@ -4,7 +4,6 @@ title = "Reliving the Desi life: Year-long musings"
 date = "2016-01-09"
 description = "Reliving the Desi Life: Year-long musings"
 tags = [
-    "thoughts",
     "personal",
 ]
 +++

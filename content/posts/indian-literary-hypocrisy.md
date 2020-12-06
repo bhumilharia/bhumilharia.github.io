@@ -4,7 +4,6 @@ title = "The Indian Literary Hypocrisy"
 date = "2013-03-18"
 description = "The Indian Literary Hypocrisy"
 tags = [
-    "thoughts",
     "books",
 ]
 +++

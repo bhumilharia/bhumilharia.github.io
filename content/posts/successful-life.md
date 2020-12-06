@@ -4,8 +4,7 @@ title = "Successful Life"
 date = "2012-10-08"
 description = "Successful Life"
 tags = [
-    "thoughts",
-    "personal",
+    "life",
 ]
 +++
 
