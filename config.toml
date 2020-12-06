@@ -36,6 +36,11 @@ summarylength = 10
   identifier = "posts"
   url = "/posts/"
 
+#  [[menu.main]]
+#  name = "Resources"
+#  weight = 500
+#  identifier = "resources"
+#  url = "/resources/"
 
 
 [params]
