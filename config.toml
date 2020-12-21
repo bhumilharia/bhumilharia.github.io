@@ -16,6 +16,8 @@ googleAnalytics = "UA-89080831-1"
 # Google Site Verification
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
+[markup.goldmark.renderer]
+#unsafe = true
 
 [menu]
   [[menu.main]]

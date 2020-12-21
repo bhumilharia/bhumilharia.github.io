@@ -32,3 +32,4 @@ git clone <this repo>
 - Fix Google Analytics / Tag manager
 - Setup Github Actions to automatically run `./publish_to_ghpages.sh` on master merges. Intent is to take away the local build step and make it possible to publish straight from GitHub's web UI.
 - Move the salary increments post to the current blog
+- Update home page, use it as a list for
