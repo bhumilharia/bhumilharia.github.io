@@ -33,6 +33,12 @@ Content part here
 {{< /expand >}}
 ```
 
+#### No Follow Link
+Example
+```
+{{< nofollowlink href="https://www.financialexpress.com/money/insurance/how-a-super-top-up-health-insurance-plan-can-help-you/2068004/" >}}More detailed explanation about these policies is here. {{< /nofollowlink >}}
+```
+
 ### Deployment
 - This is hosted using GitHub Pages
 - The published static files are served from the `gh-pages` branch

@@ -68,7 +68,9 @@ This is a great question. Insurance in India is a very regulated space, with a l
     - **Reimbursement Policy**: Some policies require you to pay the hospital bills yourself first, and submit the original bills to the insurance company for processing. Such policies are called reimbursement policies. These are less preferred because you have to shell out money from your own pocket.
     - **Individual vs Floater plans**: Individual plans are insurance policies that cover only one individual. On the other hand, Family Floater plans cover multiple people in your family under the same policy. This can be cheaper and more convenient if selected correctly (more on how to select between them later)
     - **Base Policy**: Standard health insurance policy. It's often called "Base" to differentiate it from Top-up/Super Top-up plans (explained below)
-    - **Top-up / Super Top-up Plan**: These are a special type of insurance policies that kick in only after you or your base plan have paid a specific amount of money for your claims (called deductible). These policies are significantly cheaper because they don't start paying until a certain amount has already been paid. [More detailed explanation about these policies is here](https://www.financialexpress.com/money/insurance/how-a-super-top-up-health-insurance-plan-can-help-you/2068004/). **Note**: If you're buying these, you should **only** opt for super top-up (**not** top-up) unless you very well understand the limitations involved and are consciously choosing them.
+    - **Top-up / Super Top-up Plan**: These are a special type of insurance policies that kick in only after you or your base plan have paid a specific amount of money for your claims (called deductible). These policies are significantly cheaper because they don't start paying until a certain amount has already been paid. 
+    {{< nofollowlink href="https://www.financialexpress.com/money/insurance/how-a-super-top-up-health-insurance-plan-can-help-you/2068004/" >}}More detailed explanation about these policies is here. {{< /nofollowlink >}}
+    **Note**: If you're buying these, you should **only** opt for super top-up (**not** top-up) unless you very well understand the limitations involved and are consciously choosing them.
     - **Deductible**: The amount of money that you need to pay *from your pocket* before the insurance will pay anything. These are present in top-up / super top-up plans. (I don't know if there are base policies with deductibles, but if you see one run away)
     - **Co-payment**: There are some policies where you'd pay a percentage of the expenses and the insurer pays the rest. For example you bear 10% of the expenses, and insurer pays 90%. Sounds okay in percentages but in the event of a 5L claim you don't want to shell out 50K. Ideally you should not take these unless there is no other alternative possible (e.g. senior citizens might not have policies with 0 deductibles).
 
@@ -208,9 +210,9 @@ That's it, that's all the answers you need before you go hunt for a plan! I'd su
 
 **Health Insurance for parents**
 
-- [Beshak.org: How to go about getting parents' health insurance?](https://www.beshak.org/insurance/health-insurance/articles/senior-citizen-health-insurance-without-medical-test-plans) (Recommended)
+- {{< nofollowlink href="https://www.beshak.org/insurance/health-insurance/articles/senior-citizen-health-insurance-without-medical-test-plans" >}}Beshak.org: How to go about getting parents' health insurance?s{{< /nofollowlink >}} (Recommended)
 
 **Base vs Top-up**
 
-- [https://economictimes.indiatimes.com/wealth/insure/health-insurance/should-you-buy-health-insurance-with-higher-sum-insured-or-add-top-up-policy/articleshow/74311809.cms](https://economictimes.indiatimes.com/wealth/insure/health-insurance/should-you-buy-health-insurance-with-higher-sum-insured-or-add-top-up-policy/articleshow/74311809.cms)
-- [https://www.relakhs.com/top-up-health-insurance-plans-super-top-up-india/](https://www.relakhs.com/top-up-health-insurance-plans-super-top-up-india/)
+- {{< nofollowlink href="https://economictimes.indiatimes.com/wealth/insure/health-insurance/should-you-buy-health-insurance-with-higher-sum-insured-or-add-top-up-policy/articleshow/74311809.cms" >}}Higher sum insured vs top-up{{< /nofollowlink >}}
+- {{< nofollowlink href="https://www.relakhs.com/top-up-health-insurance-plans-super-top-up-india/" >}}Top-up and super top-up{{< /nofollowlink >}}
