@@ -21,6 +21,17 @@ git clone <this repo>
 - Commit to master
 - Run `./publish_to_ghpages.sh`
 
+### New Shortcodes
+
+#### Expand (collapsible sections)
+Example
+```
+{{< expand summary="Summary line of the collapsible dropdown">}}
+Content part here
+![survey-india-increments/by-industry.png](/images/posts/survey-india-increments/by-industry.png)
+
+{{< /expand >}}
+```
 
 ### Deployment
 - This is hosted using GitHub Pages

@@ -1,4 +1,15 @@
-<details>
-	<summary>{{.Get "summary"}}</summary>
-	{{ .Inner | markdownify }}
-</details>
+<p>
+	<details class="post-collapsible">
+		<summary>
+			{{ if .Get "bold"}}
+				<strong>{{.Get "summary"}}</strong>
+			{{else}}
+				{{.Get "summary"}}
+			{{ end }}
+		</summary>
+
+		<div class="post-collapsible-details">
+			{{ .Inner | markdownify }}
+		</div>
+	</details>
+</p>
