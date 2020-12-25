@@ -14,6 +14,9 @@ The intent of this document is to provide a simple list of actionable steps to h
 
 I'll include some basics (only practical notes, not theory) so people who have absolutely no idea can get started as well.
 
+**This post does not recommmend what to buy, only explains concepts and talks about how to go about making a decision**
+
+---
 
 ## Insurance Basics
 
