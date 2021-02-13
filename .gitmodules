@@ -1,3 +1,6 @@
 [submodule "themes/anatole"]
 	path = themes/anatole
 	url = https://github.com/bhumilharia/anatole.git
+[submodule "themes/devise"]
+	path = themes/devise
+	url = git@github.com:bhumilharia/devise.git
