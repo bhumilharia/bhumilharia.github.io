@@ -17,7 +17,7 @@ git clone <this repo>
 ### Writing
 - For adding a new blog post, add a new file `content/posts/new-post.md` (copy an existing file and modify)
 - For adding a new (non-blog) page, copy `content/about.md`
-- Optionally, run server `hugo server` to check if the post looks ok.
+- Run server `hugo server` to check if the post looks ok.
 - Commit to master
 - Run `./publish_to_ghpages.sh`
 
