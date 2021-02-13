@@ -13,7 +13,7 @@ categories = [
 +++
 
 
-# Background
+## Background
 
 A couple of weeks ago I did a Google Forms survey asking questions about how increments in India work. 
 
@@ -30,7 +30,7 @@ In order to make this post manageable (both for myself and for the reader) and p
 All you need to do is click the black arrow/triangle bullet point at every section header, and it will open up to reveal the content inside. 
 
 
-# Data Cleaning
+## Data Cleaning
 
 If you took the survey, you might have noticed that most of the questions had an open text field - even the questions with yes/no answers had a third "other" option where you could write in something else.
 
@@ -41,13 +41,13 @@ In order to publish data that is more valuable, and (without meaning any offense
 While I do not know the which response belongs to whom (my friends seem to have kept their companies undisclosed, very rational 🙂), your friends might know that you've contributed to the questionnaire. Some of the responses, because they are unique, could lead to people being able to guess who the respondent was. In order to prevent that, I have also clubbed similar responses where possible.
 
 
-# Analysis
+## Analysis
 
 Before we move on to the numbers, it will be useful to understand the basic background of the people (and their companies) who've graciously responded to the post.
 
 All in all we received 52 responses. One of those barely had any sensible information, so it was discarded from analysis.
 
-## Company Information
+### Company Information
 
 For privacy considerations, I will not be publishing information about which companies responded, because there's a large number of companies where the response count is two or less. However, the other facets below might help understand the data.
 
@@ -100,7 +100,7 @@ Basically all but two companies follow annual reviews and appraisals. Seems like
 
 
 
-## Demographic Information
+### Demographic Information
 
 About the people themselves...
 
@@ -147,7 +147,7 @@ Smaller proportion of responses in the less than 5L and more than 50L category (
 {{< /expand >}}
 
 
-## Increments
+### Increments
 
 Finally, to the meat of the matter!
 
@@ -272,7 +272,7 @@ I do have one more violin chart for performance and manager-vs-IC, but I'm mysel
 
 
 
-# Next Steps and Conclusion
+## Next Steps and Conclusion
 
 I'm sure there could be a few more insights that could be wrangled out of the data we have. A couple of examples would be
 
@@ -288,7 +288,7 @@ Though I think it might be worthwhile to do this at a larger scale in the future
 
 
 
-# Special Mentions
+## Special Mentions
 
 This post was graciously reviewed by Kunal Patil who made great suggestions for additions to the increments section, and by Annkur Agarwal.
 

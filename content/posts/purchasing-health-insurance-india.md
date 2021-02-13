@@ -213,7 +213,7 @@ That's it, that's all the answers you need before you go hunt for a plan! I'd su
 
 ---
 
-# Resources / More Reading
+## Resources / More Reading
 
 **Health Insurance for parents**
 
