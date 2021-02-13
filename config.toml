@@ -7,7 +7,7 @@ theme = "devise"
 relativeURLs = true
 title = "Website | Bhumil Haria"
 summarylength = 10
-copyright = "&copy; 2021, Bhumil Haria"
+copyright = "&copy; 2021 Bhumil Haria"
 
 # Enable Disqus
 #disqusShortname = ""
@@ -35,7 +35,7 @@ googleAnalytics = "UA-89080831-1"
   url = "/about/"
 
   [[menu.main]]
-  name = "All Posts"
+  name = "Blog"
   weight = 400
   identifier = "posts"
   url = "/posts/"
@@ -64,7 +64,7 @@ googleAnalytics = "UA-89080831-1"
   #  backgroundColor = "#f8f9fa"
   #  fontColor = "#212529"
   [[params.social]]
-    fa_icon = "fas fa-at fa-1x"
+    fa_icon = "fas fa-envelope fa-1x"
     href = "mailto:bhumil@bhumilharia.com"
   [[params.social]]
     fa_icon = "fab fa-twitter fa-1x"
@@ -76,7 +76,7 @@ googleAnalytics = "UA-89080831-1"
     fa_icon = "fab fa-github fa-1x"
     href = "http://github.com/bhumilharia"
   [[params.social]]
-    fa_icon = "fas fa-youtube fa-1x"
+    fa_icon = "fab fa-youtube fa-1x"
     href = "https://www.youtube.com/c/BhumilHaria/featured"
 
 

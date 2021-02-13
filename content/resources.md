@@ -9,9 +9,11 @@ aliases = []
 #### Favorites
 
 - Life Advice
-    - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
-    - [Don't call yourself a programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-    - [Salary Negotiations: Make more money, be more valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+    - {{< nofollowlink href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/" >}} 68 Bits of Unsolicited Advice {{< /nofollowlink >}}
+    - {{< nofollowlink href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/" >}} Don't call yourself a programmer {{< /nofollowlink >}}
+    - {{< nofollowlink href="https://www.kalzumeus.com/2012/01/23/salary-negotiation/" >}} Salary Negotiations: Make more money, be more valued {{< /nofollowlink >}}
+
+<br/>
 
 - Technical
-    - [Execution in Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+    - {{< nofollowlink href="http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html" >}} Execution in Kingdom of Nouns {{< /nofollowlink >}}

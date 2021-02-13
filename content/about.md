@@ -12,7 +12,11 @@ most of the last decade building software systems with varying degrees of scale 
 industries, company sizes, tech stacks). More recently, my focus has moved to building and enabling
 strong, productive engineering teams and tech businesses.
 
-I'm currently heading India operations for [PlateIQ](https://plateiq.com) since end of 2018.
+I'm currently heading India operations for
+{{< nofollowlink href="https://plateiq.com" >}} PlateIQ {{< /nofollowlink >}} since end of 2018.
+
+
+
 
 ---
 
@@ -45,6 +49,7 @@ ports and trying out new things. And have a particularly strong interest in subj
 evolution - religion, war, history, spirituality, justice/morality and philosophy about work and
 happiness and life. 
 
-And I totally love [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes).
+And I totally love 
+{{< nofollowlink href="https://en.wikipedia.org/wiki/Calvin_and_Hobbes" >}} Calvin and Hobbes {{< /nofollowlink >}}.
 
 
