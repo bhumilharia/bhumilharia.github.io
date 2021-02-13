@@ -7,6 +7,9 @@ tags = [
     "life",
     "personal",
 ]
+categories = [
+    "personal",
+]
 +++
 
 I've wanted to write this for long. Very long. After Techno'10. After Robocon'10. After Nirop last year.

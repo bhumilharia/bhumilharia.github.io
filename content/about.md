@@ -20,8 +20,8 @@ I'm currently heading India operations for [PlateIQ](https://plateiq.com) since 
 Apart from my day job, I spend time helping founders/companies/teams maximize their software
 engineering productivity. Examples of this include helping non-technical founders on bootstrapping
 software development for their new start-up idea, assisting in building and hiring remote teams,
-or for companies looking to establish India development centers, helping them out with all the
-administrative/legal/team building operations. Anything related to (software + teams + productivity),
+or for companies looking to establish India development centers, helping them out with
+admin/team building operations. Anything related to (software + teams + productivity),
 really.
 
 If any of these are sound like topics that interest you (or problems you have), let's talk! Building

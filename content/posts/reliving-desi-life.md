@@ -6,6 +6,10 @@ description = "Reliving the Desi Life: Year-long musings"
 tags = [
     "personal",
 ]
+categories = [
+    "personal",
+]
+
 +++
 
 I started writing this article on the 22nd of November, 2015 (and am late in posting this, as usual).

@@ -7,6 +7,9 @@ tags = [
     "life",
     "personal",
 ]
+categories = [
+    "personal",
+]
 +++
 
 I’ll begin this part with what I missed in the previous part- a confession and a thanks-giving.

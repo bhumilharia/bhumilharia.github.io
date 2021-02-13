@@ -7,6 +7,9 @@ tags = [
     "life",
     "salaries",
 ]
+categories = [
+    "informational",
+]
 +++
 
 
