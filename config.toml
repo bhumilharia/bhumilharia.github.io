@@ -3,9 +3,11 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
-theme = "anatole"
+theme = "devise"
+relativeURLs = true
 title = "Website | Bhumil Haria"
 summarylength = 10
+copyright = "&copy; 2021, Bhumil Haria"
 
 # Enable Disqus
 #disqusShortname = ""
@@ -33,7 +35,7 @@ googleAnalytics = "UA-89080831-1"
   url = "/about/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "All Posts"
   weight = 400
   identifier = "posts"
   url = "/posts/"
@@ -46,51 +48,39 @@ googleAnalytics = "UA-89080831-1"
 
 
 [params]
-  title = "Bhumil Haria"
-  author = "Bhumil Haria"
-  description = ""
-  profilePicture = "images/profile.jpg"
-  keywords = ""
+  # Theme-specific variables (devise)
+  description = "Personal site and blog for Bhumil Haria"
+  header_title = "Bhumil Haria"
+  header_subtitle = ""
+  home_image = "images/profile.jpg"
+  recent_posts = 5
+  #mainSections = ["posts", "post", "blog"]
+
   favicon = "favicons/"
   customCss = ["css/custom.css"]
   customJs = []
-  mainSections = ["posts", "tags"]
-  images = ["images/site-feature-image.png"]
-  doNotLoadAnimations = true
-  #displayMode = "dark"
+
+  #[params.style]
+  #  backgroundColor = "#f8f9fa"
+  #  fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fas fa-at fa-1x"
+    href = "mailto:bhumil@bhumilharia.com"
+  [[params.social]]
+    fa_icon = "fab fa-twitter fa-1x"
+    href = "https://twitter.com/bhumilharia"
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"
+    href = "https://in.linkedin.com/in/bhumilharia"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"
+    href = "http://github.com/bhumilharia"
+  [[params.social]]
+    fa_icon = "fas fa-youtube fa-1x"
+    href = "https://www.youtube.com/c/BhumilHaria/featured"
 
 
   ## Math settings
   #[params.math]
   #enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
   #use = "katex"  # options: "katex", "mathjax". default is "katex".
-
-
-  ## Social links
-  # use 'fab' when brand icons, use 'fas' when standard solid icons.
-  [[params.socialIcons]]
-  icon = "fas fa-envelope"
-  title = "e-mail"
-  url = "mailto:bhumil@bhumilharia.com"
-
-  [[params.socialIcons]]
-  icon = "fab fa-twitter"
-  title = "Twitter"
-  url = "https://twitter.com/bhumilharia"
-
-  [[params.socialIcons]]
-  icon = "fab fa-linkedin"
-  title = "Linkedin"
-  url = "https://in.linkedin.com/in/bhumilharia"
-
-  [[params.socialIcons]]
-  icon = "fab fa-github"
-  title = "GitHub"
-  url = "https://github.com/bhumilharia/"
-
-  [[params.socialIcons]]
-  icon = "fab fa-youtube"
-  title = "YouTube"
-  url = "https://www.youtube.com/c/BhumilHaria/featured"
-
-
