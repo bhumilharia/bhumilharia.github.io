@@ -13,10 +13,7 @@ industries, company sizes, tech stacks). More recently, my focus has moved to bu
 strong, productive engineering teams and tech businesses.
 
 I'm currently heading India operations for
-{{< nofollowlink href="https://plateiq.com" >}} PlateIQ {{< /nofollowlink >}} since end of 2018.
-
-
-
+{{< nofollowlink href="https://plateiq.com" >}} PlateIQ {{< /nofollowlink >}} since end of 2018.s
 
 ---
 
@@ -50,6 +47,4 @@ evolution - religion, war, history, spirituality, justice/morality and philosoph
 happiness and life. 
 
 And I totally love 
-{{< nofollowlink href="https://en.wikipedia.org/wiki/Calvin_and_Hobbes" >}} Calvin and Hobbes {{< /nofollowlink >}}.
-
-
+{{< nofollowlink href="https://en.wikipedia.org/wiki/Calvin_and_Hobbes" >}}Calvin and Hobbes{{< /nofollowlink >}}.

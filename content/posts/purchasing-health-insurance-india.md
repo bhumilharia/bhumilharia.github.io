@@ -1,11 +1,12 @@
 +++
 author = "Bhumil Haria"
 title = "Purchasing Health Insurance in India"
+subtitle = ""
 date = "2020-12-23"
 description = "Purchasing Health Insurance in India"
 tags = [
-    "howto",
     "finance",
+    "insurance",
 ]
 categories = [
     "informational",

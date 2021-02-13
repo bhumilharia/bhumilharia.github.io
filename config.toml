@@ -35,7 +35,7 @@ googleAnalytics = "UA-89080831-1"
   url = "/about/"
 
   [[menu.main]]
-  name = "Blog"
+  name = "Posts"
   weight = 400
   identifier = "posts"
   url = "/posts/"
@@ -53,7 +53,7 @@ googleAnalytics = "UA-89080831-1"
   header_title = "Bhumil Haria"
   header_subtitle = ""
   home_image = "images/profile.jpg"
-  recent_posts = 5
+  recent_posts = 10
   #mainSections = ["posts", "post", "blog"]
 
   favicon = "favicons/"
