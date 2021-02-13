@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bhumilharia.com/tags/howto/</loc>
+    <loc>https://bhumilharia.com/categories/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bhumilharia.com/tags/finance/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bhumilharia.com/categories/informational/</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bhumilharia.com/tags/insurance/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,12 +68,12 @@
   </url>
   
   <url>
-    <loc>https://bhumilharia.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://bhumilharia.com/tags/personal/</loc>
+    <lastmod>2016-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bhumilharia.com/tags/personal/</loc>
+    <loc>https://bhumilharia.com/categories/personal/</loc>
     <lastmod>2016-01-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,10 +110,6 @@
   <url>
     <loc>https://bhumilharia.com/posts/lessons-learnt-1/</loc>
     <lastmod>2011-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bhumilharia.com/categories/</loc>
   </url>
   
 </urlset>
