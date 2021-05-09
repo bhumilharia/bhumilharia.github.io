@@ -223,7 +223,7 @@ This is the hardest part of getting a term plan. Hopefully I can simplify this a
         economically slightly worse, but for the coverage + peace of mind it provides, I'd just consider my home to be that much more
         expensive.
     - This will also help simplify your other Term SA calculations because you can put in Zero in your Major Liabilities section.
-    - One thing that I haven't mentioned above (that {{< nofollowlink href="twitter.com/sengupta/" >}}Sengupta{{< /nofollowlink >}} pointed
+    - One thing that I haven't mentioned above (that {{< nofollowlink href="https://twitter.com/sengupta/" >}}Sengupta{{< /nofollowlink >}} pointed
         out) is that you should also consider who the coverage is for, and till when would they need it. When planning coverage for parents,
         you'll have to *assume* a date beyond which they will no longer need the coverage. For kids, they will grow up and become
         independent some day. If you expect these to be very different timelines, factor those into your SA calculations.
