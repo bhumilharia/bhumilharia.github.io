@@ -208,7 +208,9 @@ This is the hardest part of getting a term plan. Hopefully I can simplify this a
     - Expenses + Major Expenses + Major Liabilities (as mentioned in the Beshak guide)
 - Instead of explaining them here, I'm making a spreadsheet that should help you calculate SA using ALL the methods above
     and compare the results. Here is the {{< nofollowlink href="https://docs.google.com/spreadsheets/d/1jXoPfBsXFZwG9HTFO03zhQ-syCA1gNMnm5nq4X3EzxM/edit?usp=sharing" >}}Google Sheets Link{{< /nofollowlink >}}.
-    
+    You will have to copy the sheet to be able to make changes to it. (BTW if you find this sheet helpful, do let me know :) ).
+- If you get confused and are not sure what approach to take, go with Method 3.
+
 
 ---
 
