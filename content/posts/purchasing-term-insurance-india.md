@@ -91,6 +91,10 @@ Usually (for most people) dependents include parents, spouse (if not working), a
 - If your spouse doesn't earn and is dependent on your active income, you need to cover them
 - If you have kids, you need to cover them
 
+One note worth adding: If the spouse is working and you have (or plan) kids, then while they technically are not dependents, but
+giving them a financial buffer as they work and run a single-parent family can't hurt. (One can only hope they remarry, but who can
+predict what will happen?)
+
 
 ### My employer already provides term insurance!
 
@@ -206,11 +210,23 @@ This is the hardest part of getting a term plan. Hopefully I can simplify this a
     - 10-20x your annual income
     - 250-300x your monthly expenses
     - Expenses + Major Expenses + Major Liabilities (as mentioned in the Beshak guide)
+
 - Instead of explaining them here, I'm making a spreadsheet that should help you calculate SA using ALL the methods above
     and compare the results. Here is the {{< nofollowlink href="https://docs.google.com/spreadsheets/d/1jXoPfBsXFZwG9HTFO03zhQ-syCA1gNMnm5nq4X3EzxM/edit?usp=sharing" >}}Google Sheets Link{{< /nofollowlink >}}.
     You will have to copy the sheet to be able to make changes to it. (BTW if you find this sheet helpful, do let me know :) ).
+
 - If you get confused and are not sure what approach to take, go with Method 3.
 
+- A few more pointers to keep in mind:
+    - If you are getting a home loan, I would suggest you to get a Single Pay insurance for the person under whose name
+        the home loan is taken. (Most likely your banker will try to sell you this anyway.) This is NOT essential, and may even be
+        economically slightly worse, but for the coverage + peace of mind it provides, I'd just consider my home to be that much more
+        expensive.
+    - This will also help simplify your other Term SA calculations because you can put in Zero in your Major Liabilities section.
+    - One thing that I haven't mentioned above (that {{< nofollowlink href="twitter.com/sengupta/" >}}Sengupta{{< /nofollowlink >}} pointed
+        out) is that you should also consider who the coverage is for, and till when would they need it. When planning coverage for parents,
+        you'll have to *assume* a date beyond which they will no longer need the coverage. For kids, they will grow up and become
+        independent some day. If you expect these to be very different timelines, factor those into your SA calculations.
 
 ---
 
