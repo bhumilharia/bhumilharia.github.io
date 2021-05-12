@@ -232,4 +232,7 @@ This is the hardest part of getting a term plan. Hopefully I can simplify this a
 
 ## Resources / More Reading
 
-Download the fantastic {{< nofollowlink href="https://www.beshak.org/term-insurance/e-book/buy-guide" >}}Ridiculously Simple Guide to Term Insurance from Beshak{{< /nofollowlink >}} and go through it. It might seem huge but isn't (lots of infographics). I have distilled much of it above, but they are obviously way more thorough.
+- Download the fantastic {{< nofollowlink href="https://www.beshak.org/term-insurance/e-book/buy-guide" >}}Ridiculously Simple Guide to Term Insurance from Beshak{{< /nofollowlink >}} and go through it. It might seem huge but isn't (lots of infographics). I have distilled much of it above, but they are obviously way more thorough.
+
+- {{< nofollowlink href="https://www.advisorkhoj.com/articles/Life-Insurance/Why-are-non-term-life-insurance-plans-detrimental-to-your-financial-needs" >}}
+  Non-Term Life Insurance Plans are Detrimental to your Financial Needs{{< /nofollowlink >}}
