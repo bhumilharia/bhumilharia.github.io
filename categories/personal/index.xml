@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Website | Bhumil Haria</title>
+    <link>https://bhumilharia.com/categories/personal/</link>
+    <description>Recent content in personal on Website | Bhumil Haria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Bhumil Haria</copyright>
+    <lastBuildDate>Sat, 09 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://bhumilharia.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reliving the Desi life: Year-long musings</title>
+      <link>https://bhumilharia.com/posts/reliving-desi-life/</link>
+      <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bhumilharia.com/posts/reliving-desi-life/</guid>
+      <description>I started writing this article on the 22nd of November, 2015 (and am late in posting this, as usual).</description>
+    </item>
+    
+    <item>
+      <title>Lessons Learnt - Part 2</title>
+      <link>https://bhumilharia.com/posts/lessons-learnt-2/</link>
+      <pubDate>Mon, 04 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://bhumilharia.com/posts/lessons-learnt-2/</guid>
+      <description>I’ll begin this part with what I missed in the previous part- a confession and a thanks-giving.</description>
+    </item>
+    
+    <item>
+      <title>Lessons Learnt - Part 1</title>
+      <link>https://bhumilharia.com/posts/lessons-learnt-1/</link>
+      <pubDate>Sun, 17 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://bhumilharia.com/posts/lessons-learnt-1/</guid>
+      <description>I&amp;rsquo;ve wanted to write this for long. Very long. After Techno&#39;10.</description>
+    </item>
+    
+  </channel>
+</rss>
