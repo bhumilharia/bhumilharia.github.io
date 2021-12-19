@@ -9,7 +9,7 @@ This repository powers my personal website / blog.
 
 ### Setup
 ```bash
-brew install hugo
+brew install hugo  # alternatively just use docker
 
 git clone <this repo>
 ```
@@ -18,6 +18,7 @@ git clone <this repo>
 - For adding a new blog post, add a new file `content/posts/new-post.md` (copy an existing file and modify)
 - For adding a new (non-blog) page, copy `content/about.md`
 - Run server `hugo server` to check if the post looks ok.
+	- Dockerized version of the above command: `docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.83.1-ext server`
 - Commit to master
 - Run `./publish_to_ghpages.sh`
 
