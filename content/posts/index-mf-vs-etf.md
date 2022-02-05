@@ -19,7 +19,6 @@ These are merely notes I made for myself when I was deliberating over whether to
 
 Also do note that this post does not cover any topics about whether index investing good, or relevant for you, etc. It only **very narrowly** focuses on choosing *between* them **IF** you have already decided on pursuing a passive index strategy for part of your portfolio.
 
-**Contents**
 
 
 ---
