@@ -77,3 +77,4 @@ Also do note that this post does not cover any topics about whether index invest
 - https://www.motilaloswal.com/blog-details/Choosing-a-passive-investment-idea-Index-funds-versus-ETFs/1367
 - https://www.youtube.com/watch?v=Nrn3-G8IUSQ
 - https://www.youtube.com/watch?v=MRO5WDwryYI
+- https://www.capitalmind.in/2021/11/the-best-nifty-index-fund-in-2021/
