@@ -224,3 +224,7 @@ That's it, that's all the answers you need before you go hunt for a plan! I'd su
 
 - {{< nofollowlink href="https://economictimes.indiatimes.com/wealth/insure/health-insurance/should-you-buy-health-insurance-with-higher-sum-insured-or-add-top-up-policy/articleshow/74311809.cms" >}}Higher sum insured vs top-up{{< /nofollowlink >}}
 - {{< nofollowlink href="https://www.relakhs.com/top-up-health-insurance-plans-super-top-up-india/" >}}Top-up and super top-up{{< /nofollowlink >}}
+
+
+**Restoration**
+- https://www.beshak.org/insurance/health-insurance/articles/restoration-benefit-how-does-it-work/
